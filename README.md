@@ -11,4 +11,6 @@
 - Mi experiencia abarca C#, ASP.NET, Desarrollo Web, XAML, Bootstrap, Visual Studio, Visual Code, SQL Server 2019, XAMP, TFS, Framework 4.8, Windows Forms,
   WPF, Erwin, Visio, Xmind, Interop, AJAX, JavaScript, C++, JSON, Visual Basic .NET.
 
-- Estoy aprendiendo Laravel(PHP), MAUI(C#), Flutter y React.
+- Estoy aprendiendo Laravel(PHP), Angular, MAUI(C#), Flutter y React.
+
+- Soy una persona decidida comprometida solidaria y responsable
