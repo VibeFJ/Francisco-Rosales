@@ -4,7 +4,7 @@
 - Experiecia Laboral
 - DRATENZ SS S.A. de C.V 🧑‍💻 como Desarrollador Full Stack en .NET (C#)
 - AMD Desarrollador Back-End en .NET (C#)
-- Actualmente trabajo en InmUEBLES Carso como Analista Programador🧑‍💻 , me especializo en .NET(C#) y Laravel (PHP)
+- Actualmente trabajo en Inmuebles Carso como Analista Programador🧑‍💻 , me especializo en .NET(C#) y Laravel (PHP)
 
 - Mis pasatiempos son el estudio de ***Tecnologías, Frameworks y Lenguajes***🎮
   apasionado de la ***musica*** y practicar ***Deportes*** 🚴‍♂️⚽🥅
