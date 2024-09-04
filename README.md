@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Francisco Rosales 🤜 </h1>
-<h3 align="center">Soy Ingeniero en Softwarte 👨‍🎓</h3>
+<h3 align="center">Soy Ingeniero en Software 👨‍🎓</h3>
 
 - Experiecia Laboral
 - DRATENZ SS S.A. de C.V 🧑‍💻 como Desarrollador Full Stack en .NET (C#)
