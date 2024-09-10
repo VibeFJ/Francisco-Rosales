@@ -9,7 +9,7 @@
 - Mis pasatiempos son el estudio de ***Tecnologías, Frameworks y Lenguajes***🎮
   apasionado de la ***musica*** y practicar ***Deportes*** 🚴‍♂️⚽🥅
 
-- Mi correo es ***raziel.rosfo.190@gmail.com*** estoy para ti
+- Mi correo es ***raziel.rosfo.1904@gmail.com*** estoy para ti
 
 - Mi experiencia abarca C#, ASP.NET, Desarrollo Web, XAML, Bootstrap, Visual Studio, Visual Code, SQL Server 2019, XAMP, TFS, Windows Forms,
   WPF, Erwin, Visio, Xmind, Interop, AJAX, JavaScript, C++, C, JSON, Visual Basic .NET, .
