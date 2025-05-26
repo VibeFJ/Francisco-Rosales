@@ -16,4 +16,4 @@
 
 - Estoy aprendiendo Angular, Flutter y React.
 
-- Soy una persona decidida comprometida solidaria y responsable
+- Soy una persona decidida comprometida solidaria y responsable.
